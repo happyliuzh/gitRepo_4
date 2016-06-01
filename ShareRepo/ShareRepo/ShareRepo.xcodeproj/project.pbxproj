@@ -10,6 +10,7 @@
 		DF451E3B1CFEDF2B009DAB5B /* ShareRepo.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DF451E3A1CFEDF2B009DAB5B /* ShareRepo.h */; };
 		DF451E3D1CFEDF2B009DAB5B /* ShareRepo.m in Sources */ = {isa = PBXBuildFile; fileRef = DF451E3C1CFEDF2B009DAB5B /* ShareRepo.m */; };
 		DF451E4B1CFEDF54009DAB5B /* 1_2.m in Sources */ = {isa = PBXBuildFile; fileRef = DF451E4A1CFEDF54009DAB5B /* 1_2.m */; };
+		DF451E4E1CFEE146009DAB5B /* class_0.m in Sources */ = {isa = PBXBuildFile; fileRef = DF451E4D1CFEE146009DAB5B /* class_0.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,8 @@
 		DF451E3C1CFEDF2B009DAB5B /* ShareRepo.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ShareRepo.m; sourceTree = "<group>"; };
 		DF451E491CFEDF54009DAB5B /* 1_1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = 1_1.h; path = ../../1_1.h; sourceTree = "<group>"; };
 		DF451E4A1CFEDF54009DAB5B /* 1_2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = 1_2.m; path = ../../1_2.m; sourceTree = "<group>"; };
+		DF451E4C1CFEE146009DAB5B /* class_0.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = class_0.h; sourceTree = "<group>"; };
+		DF451E4D1CFEE146009DAB5B /* class_0.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = class_0.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				DF451E4A1CFEDF54009DAB5B /* 1_2.m */,
 				DF451E3A1CFEDF2B009DAB5B /* ShareRepo.h */,
 				DF451E3C1CFEDF2B009DAB5B /* ShareRepo.m */,
+				DF451E4C1CFEE146009DAB5B /* class_0.h */,
+				DF451E4D1CFEE146009DAB5B /* class_0.m */,
 			);
 			path = ShareRepo;
 			sourceTree = "<group>";
@@ -127,6 +132,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF451E4E1CFEE146009DAB5B /* class_0.m in Sources */,
 				DF451E4B1CFEDF54009DAB5B /* 1_2.m in Sources */,
 				DF451E3D1CFEDF2B009DAB5B /* ShareRepo.m in Sources */,
 			);
@@ -252,6 +258,7 @@
 				DF451E421CFEDF2B009DAB5B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
