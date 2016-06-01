@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:gitRepo_4/../ShareRepo/ShareRepo/ShareRepo.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:gitRepo_4/gitRepo_4.xcodeproj">
    </FileRef>
 </Workspace>

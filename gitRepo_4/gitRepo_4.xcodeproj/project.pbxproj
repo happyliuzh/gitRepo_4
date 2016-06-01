@@ -15,16 +15,6 @@
 		DF451E271CFED462009DAB5B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF451E251CFED462009DAB5B /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		DF451E471CFEDF2D009DAB5B /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = DF451E431CFEDF2B009DAB5B /* ShareRepo.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = DF451E371CFEDF2B009DAB5B;
-			remoteInfo = ShareRepo;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
 		DF451E141CFED462009DAB5B /* gitRepo_4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitRepo_4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF451E181CFED462009DAB5B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -36,7 +26,6 @@
 		DF451E231CFED462009DAB5B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF451E261CFED462009DAB5B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DF451E281CFED462009DAB5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DF451E431CFEDF2B009DAB5B /* ShareRepo.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ShareRepo.xcodeproj; path = ../ShareRepo/ShareRepo/ShareRepo.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +42,6 @@
 		DF451E0B1CFED462009DAB5B = {
 			isa = PBXGroup;
 			children = (
-				DF451E431CFEDF2B009DAB5B /* ShareRepo.xcodeproj */,
 				DF451E161CFED462009DAB5B /* gitRepo_4 */,
 				DF451E151CFED462009DAB5B /* Products */,
 			);
@@ -89,14 +77,6 @@
 				DF451E181CFED462009DAB5B /* main.m */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		DF451E441CFEDF2B009DAB5B /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				DF451E481CFEDF2D009DAB5B /* libShareRepo.a */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -144,28 +124,12 @@
 			mainGroup = DF451E0B1CFED462009DAB5B;
 			productRefGroup = DF451E151CFED462009DAB5B /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = DF451E441CFEDF2B009DAB5B /* Products */;
-					ProjectRef = DF451E431CFEDF2B009DAB5B /* ShareRepo.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				DF451E131CFED462009DAB5B /* gitRepo_4 */,
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXReferenceProxy section */
-		DF451E481CFEDF2D009DAB5B /* libShareRepo.a */ = {
-			isa = PBXReferenceProxy;
-			fileType = archive.ar;
-			path = libShareRepo.a;
-			remoteRef = DF451E471CFEDF2D009DAB5B /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		DF451E121CFED462009DAB5B /* Resources */ = {
