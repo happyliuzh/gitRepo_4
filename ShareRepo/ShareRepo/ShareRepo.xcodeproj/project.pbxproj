@@ -11,8 +11,13 @@
 		DF451E3D1CFEDF2B009DAB5B /* ShareRepo.m in Sources */ = {isa = PBXBuildFile; fileRef = DF451E3C1CFEDF2B009DAB5B /* ShareRepo.m */; };
 		DF451E4B1CFEDF54009DAB5B /* 1_2.m in Sources */ = {isa = PBXBuildFile; fileRef = DF451E4A1CFEDF54009DAB5B /* 1_2.m */; };
 		DF451E4E1CFEE146009DAB5B /* class_0.m in Sources */ = {isa = PBXBuildFile; fileRef = DF451E4D1CFEE146009DAB5B /* class_0.m */; };
+
 		DF451E511CFFBC09009DAB5B /* class1.m in Sources */ = {isa = PBXBuildFile; fileRef = DF451E501CFFBC09009DAB5B /* class1.m */; };
 		DF451E541CFFBDBE009DAB5B /* class2.m in Sources */ = {isa = PBXBuildFile; fileRef = DF451E531CFFBDBE009DAB5B /* class2.m */; };
+
+
+		DF451E511CFFBC09009DAB5B /* class1.m in Sources */ = {isa = PBXBuildFile; fileRef = DF451E501CFFBC09009DAB5B /* class1.m */; };
+
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -40,6 +45,12 @@
 		DF451E501CFFBC09009DAB5B /* class1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = class1.m; sourceTree = "<group>"; };
 		DF451E521CFFBDBE009DAB5B /* class2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = class2.h; sourceTree = "<group>"; };
 		DF451E531CFFBDBE009DAB5B /* class2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = class2.m; sourceTree = "<group>"; };
+=======
+
+		DF451E4F1CFFBC09009DAB5B /* class1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = class1.h; sourceTree = "<group>"; };
+		DF451E501CFFBC09009DAB5B /* class1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = class1.m; sourceTree = "<group>"; };
+
+>>>>>>> c51f94f251c37d9f8fdd8ac13a374dcf58451a0a
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,10 +89,16 @@
 				DF451E3C1CFEDF2B009DAB5B /* ShareRepo.m */,
 				DF451E4C1CFEE146009DAB5B /* class_0.h */,
 				DF451E4D1CFEE146009DAB5B /* class_0.m */,
+
 				DF451E4F1CFFBC09009DAB5B /* class1.h */,
 				DF451E501CFFBC09009DAB5B /* class1.m */,
 				DF451E521CFFBDBE009DAB5B /* class2.h */,
 				DF451E531CFFBDBE009DAB5B /* class2.m */,
+
+
+				DF451E4F1CFFBC09009DAB5B /* class1.h */,
+				DF451E501CFFBC09009DAB5B /* class1.m */,
+
 			);
 			path = ShareRepo;
 			sourceTree = "<group>";
@@ -145,7 +162,12 @@
 				DF451E541CFFBDBE009DAB5B /* class2.m in Sources */,
 				DF451E4E1CFEE146009DAB5B /* class_0.m in Sources */,
 				DF451E4B1CFEDF54009DAB5B /* 1_2.m in Sources */,
+
 				DF451E511CFFBC09009DAB5B /* class1.m in Sources */,
+
+
+				DF451E511CFFBC09009DAB5B /* class1.m in Sources */,
+
 				DF451E3D1CFEDF2B009DAB5B /* ShareRepo.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
