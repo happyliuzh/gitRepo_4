@@ -50,7 +50,6 @@
 		DF451E501CFFBC09009DAB5B /* class1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = class1.m; sourceTree = "<group>"; };
 		DF451E521CFFBDBE009DAB5B /* class2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = class2.h; sourceTree = "<group>"; };
 		DF451E531CFFBDBE009DAB5B /* class2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = class2.m; sourceTree = "<group>"; };
-=======
 
 		DF451E4F1CFFBC09009DAB5B /* class1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = class1.h; sourceTree = "<group>"; };
 		DF451E501CFFBC09009DAB5B /* class1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = class1.m; sourceTree = "<group>"; };
@@ -60,7 +59,6 @@
 		DF451E4F1CFFBC09009DAB5B /* class1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = class1.h; sourceTree = "<group>"; };
 		DF451E501CFFBC09009DAB5B /* class1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = class1.m; sourceTree = "<group>"; };
 
->>>>>>> c51f94f251c37d9f8fdd8ac13a374dcf58451a0a
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
